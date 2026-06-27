@@ -2,6 +2,8 @@
 # ⚔️ LifeQuest
 ### Level Up Your Real Life
 
+LIVE HOSTING LINK - https://lifequest-flame.vercel.app
+
 # 📖 Overview
 
 LifeQuest is a cinematic productivity platform inspired by RPG games.
